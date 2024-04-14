@@ -1,2 +1,2 @@
 ## laravel-10-for-beginners
-##  Resource provided from bitfumes.com
+##  Resource provided by bitfumes.com
